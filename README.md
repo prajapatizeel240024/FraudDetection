@@ -293,6 +293,3 @@ Add a screenshot of PR/ROC curves in `artifacts/` after your first run.
 - Security: PII hashing/salting; access controls on artifacts and logs.
 
 ---
-
-## License
-MIT (or your license of choice).
